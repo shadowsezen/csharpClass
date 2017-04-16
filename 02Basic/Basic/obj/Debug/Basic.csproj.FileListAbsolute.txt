@@ -1,0 +1,6 @@
+C:\examples-master\02Basic\Basic\bin\Debug\Basic.exe.config
+C:\examples-master\02Basic\Basic\bin\Debug\Basic.exe
+C:\examples-master\02Basic\Basic\bin\Debug\Basic.pdb
+C:\examples-master\02Basic\Basic\obj\Debug\Basic.csprojResolveAssemblyReference.cache
+C:\examples-master\02Basic\Basic\obj\Debug\Basic.exe
+C:\examples-master\02Basic\Basic\obj\Debug\Basic.pdb
