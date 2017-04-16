@@ -1,0 +1,6 @@
+C:\examples-master\07HomeWork\WordCount\WordCount\bin\Debug\WordCount.exe.config
+C:\examples-master\07HomeWork\WordCount\WordCount\bin\Debug\WordCount.exe
+C:\examples-master\07HomeWork\WordCount\WordCount\bin\Debug\WordCount.pdb
+C:\examples-master\07HomeWork\WordCount\WordCount\obj\Debug\WordCount.csprojResolveAssemblyReference.cache
+C:\examples-master\07HomeWork\WordCount\WordCount\obj\Debug\WordCount.exe
+C:\examples-master\07HomeWork\WordCount\WordCount\obj\Debug\WordCount.pdb
