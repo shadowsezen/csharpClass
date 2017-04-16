@@ -1,0 +1,6 @@
+C:\examples-master\03Strings\Strings\bin\Debug\Strings.exe.config
+C:\examples-master\03Strings\Strings\bin\Debug\Strings.exe
+C:\examples-master\03Strings\Strings\bin\Debug\Strings.pdb
+C:\examples-master\03Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+C:\examples-master\03Strings\Strings\obj\Debug\Strings.exe
+C:\examples-master\03Strings\Strings\obj\Debug\Strings.pdb
