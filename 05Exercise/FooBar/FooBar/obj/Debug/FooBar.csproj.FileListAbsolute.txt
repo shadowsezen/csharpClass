@@ -1,0 +1,6 @@
+C:\examples-master\05Exercise\FooBar\FooBar\bin\Debug\FooBar.exe.config
+C:\examples-master\05Exercise\FooBar\FooBar\bin\Debug\FooBar.exe
+C:\examples-master\05Exercise\FooBar\FooBar\bin\Debug\FooBar.pdb
+C:\examples-master\05Exercise\FooBar\FooBar\obj\Debug\FooBar.csprojResolveAssemblyReference.cache
+C:\examples-master\05Exercise\FooBar\FooBar\obj\Debug\FooBar.exe
+C:\examples-master\05Exercise\FooBar\FooBar\obj\Debug\FooBar.pdb

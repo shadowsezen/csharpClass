@@ -1,0 +1,6 @@
+C:\examples-master\06Collections\Collections\Collections\bin\Debug\Collections.exe.config
+C:\examples-master\06Collections\Collections\Collections\bin\Debug\Collections.exe
+C:\examples-master\06Collections\Collections\Collections\bin\Debug\Collections.pdb
+C:\examples-master\06Collections\Collections\Collections\obj\Debug\Collections.csprojResolveAssemblyReference.cache
+C:\examples-master\06Collections\Collections\Collections\obj\Debug\Collections.exe
+C:\examples-master\06Collections\Collections\Collections\obj\Debug\Collections.pdb
