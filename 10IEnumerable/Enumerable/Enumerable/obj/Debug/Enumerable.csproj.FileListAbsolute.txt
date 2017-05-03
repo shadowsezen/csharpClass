@@ -1,0 +1,5 @@
+C:\Users\asarnack\Downloads\examples-master (2)\examples-master\10IEnumerable\Enumerable\Enumerable\bin\Debug\Enumerable.exe.config
+C:\Users\asarnack\Downloads\examples-master (2)\examples-master\10IEnumerable\Enumerable\Enumerable\bin\Debug\Enumerable.exe
+C:\Users\asarnack\Downloads\examples-master (2)\examples-master\10IEnumerable\Enumerable\Enumerable\bin\Debug\Enumerable.pdb
+C:\Users\asarnack\Downloads\examples-master (2)\examples-master\10IEnumerable\Enumerable\Enumerable\obj\Debug\Enumerable.exe
+C:\Users\asarnack\Downloads\examples-master (2)\examples-master\10IEnumerable\Enumerable\Enumerable\obj\Debug\Enumerable.pdb
